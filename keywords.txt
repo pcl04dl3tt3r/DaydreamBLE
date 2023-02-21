@@ -1,0 +1,12 @@
+#######################################
+# Syntax Coloring Map For DaydreamBLE
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DaydreamBLE	KEYWORD1
+Google daydream	KEYWORD1
+Google daydream controller	KEYWORD1
+daydream controller	KEYWORD1
